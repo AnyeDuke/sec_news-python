@@ -6,6 +6,8 @@ From http://sec.jetlib.com/
 Requires : 
 [Python3]
 
+Exp:
+python3 sec_news.py
 
 
 
