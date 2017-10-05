@@ -7,7 +7,9 @@ Requires :
 [Python3]
 
 Exp:
-python3 sec_news.py
+chmod 777 sec_news.py
+./sec_news.py
+
 
 
 
